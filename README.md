@@ -60,7 +60,8 @@ login-page/
 - Add JavaScript validation  
 - Connect with backend (Node.js / Java)  
 - Implement real login authentication  
-- Add signup and forgot password features  
+- Add signup and forgot password features
+- updated soon
 
 ---
 
