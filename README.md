@@ -15,7 +15,7 @@ It demonstrates form design, input handling, and basic frontend layout for authe
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack -- inline-css
 - **HTML5** – structure  
 - **CSS3** – styling  
 
@@ -37,7 +37,8 @@ login-page/
 ---
 
 ## 📸 Screenshots
-(Add your login page screenshot here)
+<img width="458" height="625" alt="image" src="https://github.com/user-attachments/assets/4cac10a5-fd54-4cb5-9f13-c8bd762a04d1" />
+
 
 ---
 
